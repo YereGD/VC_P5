@@ -5,3 +5,10 @@ para la detección y posición de cara y ojos. Se he emplea trigonometría para 
 
 
 ![2024-11-14 16-33-27](https://github.com/user-attachments/assets/67a29a31-886f-4c42-aa2a-23e751da31a2)
+
+
+Autores:
+
+Yeremay García Déniz
+
+Adonai Hernandez Bolaños
